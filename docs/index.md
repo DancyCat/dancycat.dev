@@ -1,4 +1,4 @@
-# Welcome to DancyCat
+# Hi everyone, welcome to DancyCat
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
